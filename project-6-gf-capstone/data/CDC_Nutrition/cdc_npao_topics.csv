@@ -1,0 +1,10 @@
+Class,Topic,Question,Short_Desc,ClassID,TopicID,QuestionID
+Fruits and Vegetables,Fruits and Vegetables - Behavior,Percent of adults who report consuming fruit less than one time daily,NoFruit,FV,FV1,Q018
+Fruits and Vegetables,Fruits and Vegetables - Behavior,Percent of adults who report consuming vegetables less than one time daily,NoVeg,FV,FV1,Q019
+Obesity / Weight Status,Obesity / Weight Status,Percent of adults aged 18 years and older who have an overweight classification,18+Overweight,OWS,OWS1,Q037
+Obesity / Weight Status,Obesity / Weight Status,Percent of adults aged 18 years and older who have obesity,18+Obese,OWS,OWS1,Q036
+Physical Activity,Physical Activity - Behavior,Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination),Aerobic,PA,PA1,Q043
+Physical Activity,Physical Activity - Behavior,Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week,Aerobic+Strength,PA,PA1,Q044
+Physical Activity,Physical Activity - Behavior,Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination),HighAerobic,PA,PA1,Q045
+Physical Activity,Physical Activity - Behavior,Percent of adults who engage in muscle-strengthening activities on 2 or more days a week,Strength,PA,PA1,Q046
+Physical Activity,Physical Activity - Behavior,Percent of adults who engage in no leisure-time physical activity,NoExercise,PA,PA1,Q047

@@ -1,0 +1,35 @@
+Data Dictionary - CDC_NPAO,,
+Column Name:,Type:,Description
+yearstart,integer,starting year
+yearend,integer,ending year
+locationabbr,string,location abbreviation
+locationdesc,string,location description
+datasource,string,data source
+class,string,class type
+topic,string,topic type
+question,string,survey question
+data_value_unit,string,units of data value
+data_value_type,string,type of data value
+data_value,decimal,data value number
+data_value_alt,decimal,alternate data value
+data_value_footnote_symbol,string,symbol of footnote of data value
+data_value_footnote,string,footnote of data value
+low_confidence_limit,decimal,low confidence limit
+high_confidence_limit,decimal,high confidence limit
+sample_size,integer,size of sample
+total,string,total category
+age_years,string,age category in years
+education,string,education category
+gender,string,gender category
+income,string,income category
+race_ethnicity,string,race and ethnicity category
+geolocation,geopoint,latitude and longitude
+classid,string,class identification type
+topicid,string,Topic identification type
+questionid,decimal,ID of Question
+datavaluetypeid,string,ID of data value type
+locationid,integer,ID of location
+stratificationcategory1,string,Stratification category One
+stratification1,string,Stratification 
+stratificationcategoryid1,string,Stratification Category ID One
+stratificationid1,string,Stratification ID
