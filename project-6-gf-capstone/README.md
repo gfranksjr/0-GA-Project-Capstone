@@ -11,8 +11,7 @@
 ---
 
 ## Problem Statement
->FINAL TBD
->DRAFT: As a data scientist at a leading food delivery/ghost kitchen company in Alabama, you've been tasked with market research that includes analyzing data on food value, food keywords, nutrition habits, physical activity levels, and obesity rates, and other factors, to identify distinct market segments across states and determine top menu items to deliver. Your goal is to develop at least one model that will enable targeted marketing campaigns and tailored menu offerings, presenting the top state clusters or groups with recommendations for top menu items.
+>As a data scientist at a startup food ghost kitchen company in Alabama, I have been tasked with market research that includes analyzing data on food value, food keywords, nutrition habits, physical activity levels, and obesity rates, and other factors, to identify distinct market segments across the state and determine top menu items to deliver. The goal is to develop models that will enable targeted marketing campaigns and tailored menu offerings, presenting the top locations with recommendations for top menu items and keywords to use for advertisement.
 
 ---
 
@@ -52,20 +51,9 @@ These models all combine to enhance the market research and product development 
 
 # Executive Summary
 
-TBD
+- TBD
 
 ---
-
-### Methodology
-
-Data Collection
-- TBD
-
-Preprocessing and Exploratory Data Analysis (EDA)
-- TBD
-
-Modeling
-- TBD
 
 ### Conclusions and Recommendations
 
@@ -75,11 +63,8 @@ Modeling
 
 ### **Next Steps:**
 
-- Practical Application: TBD
+- TBD
 
-- Scalability: TBD
-
-- Customization Potential: TBD
   
 ---
 
