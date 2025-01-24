@@ -51,8 +51,8 @@ These models all combine to enhance the market research and product development 
   
 Two clustering models, K-means and DBSCAN, were employed to identify ideal locations for business establishment:
 
-* K-means (Silhouette Score: 0.443, Inertia: 15,436,534,561.065)
-* DBSCAN (Silhouette Score: 0.566, Inertia: 2,544,347,384,021.328)
+* K-means (Silhouette Score: 0.288, Inertia: 2645004622287.102)
+* DBSCAN (Silhouette Score: 0.566, Inertia: 2544347384021.328)
 * Mobile, Baldwin, and Elmore counties are prime areaa for initial investment.
 
 These locations offer a balance of population density and income levels, avoiding oversaturated markets while ensuring sufficient customer base, and should both be tested.
